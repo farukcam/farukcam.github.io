@@ -47,7 +47,7 @@ github: farukcam
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-#medium: medium
+# medium: medium
 # vimeo: myvimeo
 email: mail@farukix.com
 
@@ -99,11 +99,11 @@ show-author: true
 # do you want some animations?
 animation: true
 
-gems:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+#gems:
+#  - jekyll-seo-tag
+#  - jekyll-gist
+#  - jekyll-feed
+#  - jemoji
 
 jekyll-mentions:
     base_url: https://github.com
